@@ -1,0 +1,13 @@
+body {
+  min-height: 100vh;
+}
+
+.title {
+  font-size: 3rem;
+}
+
+@media (min-width: 1024px) and (max-width: 2559px) {
+  .full-screen {
+    height: 100vh;
+  }
+}
